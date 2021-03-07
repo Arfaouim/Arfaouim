@@ -6,7 +6,7 @@
 
 
 <h2> Hi, I'm Arfaoui Mehdi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/zKRlxWqdP4NTok3Ppl/giphy.gif" width="230">
 <p><em>PHD Student  <a href="http://www.fst.rnu.tn">University Of Tunis el Manar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
