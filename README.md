@@ -3,13 +3,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Arfaouim}/count.svg)
 
 
-<h2> Hi, I'm Arfaoui Mejdi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Arfaoui Mehdi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>PHD Student  <a href="http://www.fst.rnu.tn">University Of Tunis el Manar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: Mehdi Arfaoui](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social](https://twitter.com/Arfaoui_Mehdi2)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-arfaoui-mehdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
+[![Twitter: Arfaoui_Mehdi2](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social](https://twitter.com/Arfaoui_Mehdi2)
+[![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-mehdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
 [![GitHub Arfaouim](https://img.shields.io/github/followers/Arfaouim?style=social)](https://github.com/Arfaouim)
 
 
