@@ -38,7 +38,7 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A Science lover -amateurChess player -gearAddict-amateurMusician-gamer-coder-programmer-catLover-Boxer",
 		"- 🔭 I’m currently working on":      " A full time PHD student in Qunatum imformation --- Sometimes a software Developer --- & as a Part Time a Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "Golang, Mathematica, Quantum open Sys,  --- Sharpening my python Skills to optimise my scripts (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Python, Quantum solid state related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, classic music, chess, SQL, Software Design & Architecture, Web-Dev, Quantum physics and coffee",
