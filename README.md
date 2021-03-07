@@ -10,7 +10,7 @@
 
 [![Twitter: Arfaoui_Mehdi2](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social](https://twitter.com/Arfaoui_Mehdi2)
 [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-mehdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
-[![GitHub Arfaouim](https://img.shields.io/github/followers/Arfaouim?style=social)](https://github.com/Arfaouim)
+![GitHub Arfaouim](https://img.shields.io/github/followers/Arfaouim?style=social)(https://github.com/Arfaouim)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
