@@ -9,9 +9,9 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social)
-[![Linkedin: arfaoui](https://img.shields.io/badge/-arfaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
-[![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-mehdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
-![GitHub Arfaouim](https://img.shields.io/github/followers/Arfaouim?style=social)(https://github.com/Arfaouim)
+[![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
+![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
