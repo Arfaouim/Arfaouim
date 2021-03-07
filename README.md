@@ -1,3 +1,6 @@
+<!--
+**Arfaouim/Arfaouim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/{Arfaouim}/count.svg)
@@ -13,25 +16,37 @@
 ![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)
 
 
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```golang
+package main
 
-<!--
-**Arfaouim/Arfaouim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import (
+	"fmt"
+)
 
-Here are some ideas to get you started:
+type Bio map[string]string
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
 
----
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A Science lover -amateurChess player -gearAddict-amateurMusician-gamer-coder-programmer-catLover-Boxer",
+		"- 🔭 I’m currently working on":      " A full time PHD student in Qunatum imformation --- Sometimes a software Developer --- & as a Part Time a Teacher",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python, Quantum solid state related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, classic music, chess, SQL, Software Design & Architecture, Web-Dev, Quantum physics and coffee",
+		"- 📫 How to reach me:":              "https://github.com/Arfaouim #you-can-reach-me-there",
+	}
+}
+```
+
+<h2 align="center">You can reach me at :alien:</h2>
 
 [![Arfaoui's github stats](https://github-readme-stats.vercel.app/api?username=Arfaouim&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Arfaouim)
 
