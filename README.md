@@ -50,7 +50,7 @@ func GetBio() Bio {
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaouim&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaouim&layout=compact)](https://github.com/Arfaouim/github-readme-stats)
 
 <br><br>
 
