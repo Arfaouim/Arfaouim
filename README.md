@@ -10,7 +10,7 @@
 <p><em>PHD Student in <a href="http://www.fst.rnu.tn">University Of Tunis el Manar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2)
 
 [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)](https://www.linkedin.com/in/arfaoui-mehdi/)
 
