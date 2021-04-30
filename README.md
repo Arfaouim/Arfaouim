@@ -22,8 +22,9 @@
 
 [![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
 
-<a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-blue?style=flat-square&logo=Yahoo!&logoColor=white"></a>
+<a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>
 
+[![Email: arfaoui-mehdi](https://img.shields.io/badge/-Email@-blue?style=flat-square&logo=minutemailer&logoColor=white&link=arfaouimehdi20@yahoo.fr)](arfaouimehdi20@yahoo.fr)
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
