@@ -13,7 +13,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social)
 [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
 ![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCuYXHOQap7JJjtMnAuiyVeA?style=social)
+![Youtube](https://img.shields.io/youtube/channel/UCuYXHOQap7JJjtMnAuiyVeA)
 [![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/)
 [![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
 
