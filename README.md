@@ -11,10 +11,15 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arfaoui_Mehdi2?label=Follow&style=social)
+
 [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-arfaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)](https://www.linkedin.com/in/arfaoui-mehdi/)
+
 ![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)
-[![Youtube](https://img.shields.io/badge/-arfaoui-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)
+
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)
+
 [![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/)
+
 [![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
 
 <a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-blue?style=flat-square&logo=yahoo"></a>
