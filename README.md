@@ -11,7 +11,7 @@
 </em></p>
 
 <p>
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2)](https://twitter.com/Arfaoui_Mehdi2)
 
 [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
 
