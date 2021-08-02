@@ -24,6 +24,8 @@
 
 [![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RxZ5kEe)
+
 <a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>
 
 [![Facebook : arfaoui-mehdi](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MeHdi.ArFoUi.37)](https://www.facebook.com/MeHdi.ArFoUi.37)
