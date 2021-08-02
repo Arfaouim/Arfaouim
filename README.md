@@ -12,23 +12,7 @@
 
 <p align='center'>
 	
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2) [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)
-
-![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)
-
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)
-
-[![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/)
-
-[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](http://arfaoui.pythonanywhere.com/)
-
-[![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RxZ5kEe)
-	
-<a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>
-
-[![Facebook : arfaoui-mehdi](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MeHdi.ArFoUi.37)](https://www.facebook.com/MeHdi.ArFoUi.37)
+![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2) [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.linkedin.com/in/arfaoui-mehdi/)![GitHub followers](https://img.shields.io/github/followers/Arfaouim?style=social)[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.linkedin.com/in/arfaoui-mehdi/)](https://www.youtube.com/channel/UCuYXHOQap7JJjtMnAuiyVeA)[![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/)[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](http://arfaoui.pythonanywhere.com/)[![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RxZ5kEe) <a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>[![Facebook : arfaoui-mehdi](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MeHdi.ArFoUi.37)](https://www.facebook.com/MeHdi.ArFoUi.37)
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
