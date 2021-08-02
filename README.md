@@ -20,6 +20,8 @@
 
 [![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arfaouim-quantumland.blogspot.com/)
 
+[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](http://arfaoui.pythonanywhere.com/)
+
 [![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/)
 
 <a href="mailto:arfaouimehdi20@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-arfaouimehdi20@yahoo.fr-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>
