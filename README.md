@@ -1,5 +1,5 @@
 
-<p align="center">### Welcome to Arfaoui Mehdi's profile!👋<p>
+  <center>### Welcome to Arfaoui Mehdi's profile!👋<center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72A41&size=30&lines=Phd+Student;Mathematician.+Theoretical+Physicist.+Scientist.+;Researcher+in+quantum+computing.;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/{Arfaouim}/count.svg)
