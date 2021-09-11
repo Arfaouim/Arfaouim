@@ -27,8 +27,9 @@
 <h4> 🤵 MyPortfolio & Websits</h4>
 
 [![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](http://arfaoui.pythonanywhere.com/)  
-[![my website](https://img.shields.io/badge/-quantumland-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://quantumland.000webhostapp.com/) 
 [![Academic.tn](https://img.shields.io/badge/-Academic.tn-FF2222?)](https://academic.tn/) 
+[![Graph2d](https://img.shields.io/badge/-Graph2d-FF2222?)](https://graph2d.herokuapp.com/) 
+[![Diarydo](https://img.shields.io/badge/-Diarydo-FF2222?)](https://diarydo.herokuapp.com/) 
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
