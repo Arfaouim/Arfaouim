@@ -58,6 +58,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%Fortran"><img alt="Fortran" src="https://img.shields.io/badge/Fortran-121011.svg?logo=fortran&logoColor=white"></a>	
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%Matlab"><img alt="Matlab" src="https://img.shields.io/badge/Matlab-0095D5.svg?logo=matlab&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%Maple"><img alt="Maple" src="https://img.shields.io/badge/Maple-025E8C.svg?logo=Maple&logoColor=white"></a>	 	
     
 </p>
 
