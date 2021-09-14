@@ -57,6 +57,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%Fortran"><img alt="Fortran" src="https://img.shields.io/badge/Fortran-121011.svg?logo=fortran&logoColor=white"></a>	
     
 </p>
 
