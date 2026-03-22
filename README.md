@@ -1,12 +1,12 @@
-<h1 align="center">Welcome to Arfaoui Mehdi's profile!👋</h1>
+<h1 align="center">Welcome to Mehdi's profile!👋</h1>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72A41&size=30&width=600&lines=Phd+Student;Theoretical+Physicist.+Scientist.+;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
-<h2> Hi, I'm Arfaoui Mehdi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Mehdi Arfaoui! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/Arfaouim/Youtube/blob/main/YouTube%20Channel%20Art.png" width="550" height="350">
-<p><em>PhD Student in <a href="http://www.fst.rnu.tn">University Of Tunis el Manar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" ></br>
+<p><em>Postdoc researcher<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" ></br>
 </em></p>
 
 <p align='right'>
