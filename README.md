@@ -153,12 +153,6 @@ func GetBio() Bio {
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaouim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Arfaoui's github stats](https://github-readme-stats.vercel.app/api?username=Arfaouim&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Arfaouim)
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
 
