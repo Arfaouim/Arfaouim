@@ -161,7 +161,7 @@ func GetBio() Bio {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
-![Visitor Count](https://profile-counter.glitch.me/{Arfaouim}/count.svg)
+
 <br>
 ⭐️ From [@Arfaouim](https://github.com/Arfaouim)  
 
